@@ -1,6 +1,6 @@
 # InstantDreams-rwo
 
-The Hugo configuration, including themes, for the static site at http://instantdreams.remotewebaccess.com/
+The Hugo configuration, including themes, for the static site at https://instantdreams.remotewebaccess.com/
 
 
 ## Features
