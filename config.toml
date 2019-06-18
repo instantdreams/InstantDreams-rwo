@@ -1,0 +1,42 @@
+languageCode = "en-ca"
+title = "Instant Dreams"
+baseurl = "https://instantdreams.remotewebaccess.com/"
+theme = "aerial"
+
+[params]
+  name = "Dean Smith"
+  about = "Software Architect &nbsp;&bull;&nbsp; First Responder &nbsp;&bull;&nbsp; Endlessly Curious"
+  copyright = "Instant Dreams"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = "noscroll"
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/_instantdreams_"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/morpheus.dreaming"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/instantdreams/"
+
+[[params.social]]
+  medium = "Tumblr"
+  icon = "tumblr"
+  link = "http://instant-dreams.tumblr.com/"
+
+[[params.social]]
+  medium = "Instagram"
+  icon = "instagram"
+  link = "https://www.instagram.com/instant_dreams/"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:deanwsmith@outlook.com"

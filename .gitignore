@@ -1,0 +1,6 @@
+# Hugo themes
+/themes/aerial
+
+# Hugo generated output
+/public
+/resources/_gen/
